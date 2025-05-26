@@ -1,5 +1,5 @@
 ## Ciao a tutti e benvenuti sul mio profilo GitHub 👋
-![https://github.com/Avarchetta27/Avarchetta27/blob/main/a.gif]
+![mia gif](https://github.com/Avarchetta27/Avarchetta27/blob/main/a.gif)
 
 <!--
 **Avarchetta27/Avarchetta27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
